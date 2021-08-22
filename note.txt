@@ -1,0 +1,9 @@
+Boutique
+Blog
+Annonce
+Devlog
+Vote
+Donation
+gallery image
+timeline
+staff

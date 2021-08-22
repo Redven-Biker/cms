@@ -1,0 +1,37 @@
+login OK
+blog voir OK
+blog edit OK
+blog supprimer OK
+devlog voir OK
+devlog edit OK
+devlog supprimer OK
+donate voir OK
+donate edit OK
+donate supprimer OK
+faq voir OK
+faq edit OK
+faq supprimer OK
+gallery voir OK
+gallery edit OK
+gallery supprimer
+news voir OK
+news edit OK
+news supprimer OK
+order voir OK
+order supprimer OK
+shop voir OK
+shop edit OK
+shop supprimer OK
+staff voir OK
+staff edit OK
+staff supprimer OK
+timeline voir OK
+timeline edit OK
+timeline supprimer OK
+users voir OK
+users supprimer OK
+vote voir OK
+vote edit OK
+vote supprimer OK
+others setting voir OK
+others setting edit OK
